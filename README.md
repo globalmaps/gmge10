@@ -9,6 +9,6 @@ Credit: "Global Map of Georgia © ISCGM/National Agency for Public Registry (NAP
 
 Contact: National Agency for Public Registry (NAPR) under the Ministry of Justice. 
 
-E-mail: [email](https://www.iscgm.org/gmd/images/email/georgia.png)
+E-mail: ![email](https://www.iscgm.org/gmd/images/email/georgia.png)
 
 URL: http://www.napr.gov.ge
